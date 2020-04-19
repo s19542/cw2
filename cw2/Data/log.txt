@@ -1,1 +1,1 @@
-The file C:\\Users\\Алиса\\Desktop\\cw2\\cw2\\Data\\dane.txt does not exist!!!
+The file C:\Users\Алиса\Desktop\cw2\cw2\Data\ does not exist!!!
